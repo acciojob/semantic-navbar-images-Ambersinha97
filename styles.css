@@ -1,2 +1,13 @@
-
-/* Your CSS Code here. */
+.navbar {
+	height: 50px;
+	background-color: black;
+	font-size: 25px;
+}
+ul {
+	display: flex;
+	justify-content: space-evenly;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
